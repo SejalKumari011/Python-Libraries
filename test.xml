@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+    <row>
+        <ID>1</ID>
+        <Name>Alice</Name>
+        <Score>85</Score>
+    </row>
+    <row>
+        <ID>2</ID>
+        <Name>Bob</Name>
+        <Score>90</Score>
+    </row>
+    <row>
+        <ID>3</ID>
+        <Name>Charlie</Name>
+        <Score>78</Score>
+    </row>
+    <row>
+        <ID>4</ID>
+        <Name>David</Name>
+        <Score>92</Score>
+    </row>
+</table>
